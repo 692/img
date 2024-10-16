@@ -1,0 +1,14 @@
+{
+  "input": "./picgo",
+  "output": "./build_output",
+  "title": "Photo Gallery",
+  "sort-albums-by": "title",
+  "sort-media-by": "filename",
+  "download-photos": "copy",
+  "cleanup": true,
+  "theme": "cards",
+  "large-size": "2048",
+  "css": "./custom.css",
+  "footer": "Copyright Text",
+  "usage-stats": false
+}
